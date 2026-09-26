@@ -13,7 +13,7 @@
 
 ## 📖 Overview
 
-A minimal Windows reverse shell implemented in C++ using the Win32 API.
+A minimal Windows reverse shell implemented in C using the Win32 API.
 It connects back to a listener (e.g. `nc -lvnp 4444`), then spawns `cmd.exe`
 with `stdin` / `stdout` / `stderr` redirected to the socket — effectively
 giving the operator an interactive shell over TCP.
