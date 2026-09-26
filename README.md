@@ -27,7 +27,7 @@ This repo exists to demonstrate:
 
 ---
 
-## 🧩 Features
+## ⚙️ Features
 
 | Feature | Description |
 |---|---|
@@ -61,7 +61,7 @@ x86_64-w64-mingw32-g++ revshell.cpp -o revshell.exe -lws2_32 -mwindows
 
 ---
 
-## 🚀 Usage (Lab Only)
+## ⚙️ Usage (Lab Only)
 
 1. **Set your listener IP/port** in the source:
    ```c
@@ -80,7 +80,7 @@ x86_64-w64-mingw32-g++ revshell.cpp -o revshell.exe -lws2_32 -mwindows
 
 ---
 
-## 🧪 Recommended Lab Setup
+## ⚙️ Recommended Lab Setup
 
 - Two VMs on an **isolated host-only / NAT network**:
   - Attacker: Kali Linux
@@ -117,7 +117,7 @@ MIT — for **educational use only**. See disclaimer above.
 
 ---
 
-## 🧠 Further Reading
+## ⚙️ Further Reading
 
 - [Microsoft Docs — Creating a Basic Winsock Application](https://learn.microsoft.com/en-us/windows/win32/winsock/creating-a-basic-winsock-application)
 - [Microsoft Docs — CreateProcessA](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa)
